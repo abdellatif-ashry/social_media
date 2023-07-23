@@ -1,0 +1,1 @@
+export  let baseURL = "https://tarmeezacademy.com/api/v1/"
